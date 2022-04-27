@@ -38,20 +38,20 @@ permalink_defaults:
 
 # Site settings
 SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
+email: tianlijun315@gmail.com
 description: "It's an IT blog..."
-keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
+keyword: "tianlj,IT  blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
-favicon: img/avatar/roguerabbit.jpg
+favicon: img/avatar/T-flag.png
 
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/vincent-white.png
+signature-img: img/signature/ljtian_white.png
 
 
 # Wave settings
@@ -60,13 +60,13 @@ wave: true
 
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
+github_username: LJTian
+# twitter_username: V_Vincen_
+# instagram_username: v_vincen_
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
 # zhihu_username: WVincen
-weibo_username: WVincen
+# weibo_username: WVincen
 
 
 # Sidebar Settings
@@ -94,21 +94,24 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 
 ## Friends
 friends: [
+#    {
+#        title: "V_Vincen",
+#        href: "https://v-vincen.life/"
+#    },{
+#        title: "Bean Tech",
+#        href: "http://beantech.org"
+#    },{
+#        title: "Hux Blog",
+#        href: "http://huangxuan.me"
+#    },{
+#        title: "Hexo",
+#        href: "https://hexo.io/"
+#    }
     {
-        title: "V_Vincen",
-        href: "https://v-vincen.life/"
-    },{
-        title: "Bean Tech",
-        href: "http://beantech.org"
-    },{
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "Hexo",
-        href: "https://hexo.io/"
+        title: "tianlj",
+        href: "http://tianlj.com/"
     }
 ]
-
 
 # Comment Settings
 
@@ -165,8 +168,6 @@ baidusitemap:
 baidu_push: true
 
 # Custom Setting End
-
-
 
 # Directory
 source_dir: source
@@ -315,37 +316,34 @@ themecolor:
 
 
 # Mouseclick config
-mouseclick:
-  enable: true
-  content:
-    - The first step is as good as half over...
-    - Laugh and grow fat...
-    - Man proposes God disposes...
-    - When all else is lost the future still remains...
-    - Wasting time is robbing oneself...
-    - Sharp tools make good work...
-    - Cease to struggle and you cease to live...
-    - A friend in need is a friend indeed...
-    - Faith can move mountains...
-  color:
-    - '#9933CC'
-    - '#339933'
-    - '#66CCCC'
-    - '#FF99CC'
-    - '#CCCCFF'
-    - '#6666CC'
-    - '#663399'
-    - '#66CC99'
-    - '#FF0033'
-
-
+#mouseclick:
+#  enable: false
+#  content:
+#    - The first step is as good as half over...
+#    - Laugh and grow fat...
+#    - Man proposes God disposes...
+#    - When all else is lost the future still remains...
+#    - Wasting time is robbing oneself...
+#    - Sharp tools make good work...
+#    - Cease to struggle and you cease to live...
+#    - A friend in need is a friend indeed...
+#    - Faith can move mountains...
+#  color:
+#    - '#9933CC'
+#    - '#339933'
+#    - '#66CCCC'
+#    - '#FF99CC'
+#    - '#CCCCFF'
+#    - '#6666CC'
+#    - '#663399'
+#    - '#66CC99'
+#    - '#FF0033'
 # Ribbon config
 ribbonDynamic: true
 
 
 # Line config
 bglinecanvas: false  # The special effects will take up a lot of cpu resorces, please open it carefully.
-
 
 # Search Setting
 ## Search: https://go.kieran.top/post/45/
@@ -365,13 +363,11 @@ search:
 ##
 theme: livemylife
 
-
 # Gitter
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
 gitter:
   room: your-community/your-room
-
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
