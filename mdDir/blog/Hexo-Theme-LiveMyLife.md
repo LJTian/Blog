@@ -1,16 +1,3 @@
----
-title: Hexo-Theme-LiveMyLife
-catalog: true
-date: 2020-04-17 02:34:17
-subtitle: A succinct hexo theme...
-lang: cn
-header-img: /img/header_img/lml_bg.jpg
-tags:
-- Hexo-Theme-LiveMyLife
-categories:
-- Hexo-Theme-LiveMyLife
----
-
 > 移植 [Hux Blog](https://github.com/Huxpro/huxpro.github.io) 的主题，感谢 [Huxpro](https://github.com/Huxpro) 设计了如此完美的主题。
 >
 > 由 [Vincent](https://v-vincen.github.io/) 创建的 LiveMyLife 的主题修改来源 [YenYuHsuan](https://github.com/YenYuHsuan/hexo-theme-beantech)，参考主题 [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu)，感谢 [dusign](https://github.com/dusign/hexo-theme-snail)、[Utone](https://github.com/shixiaohu2206/hexo-theme-huhu)。

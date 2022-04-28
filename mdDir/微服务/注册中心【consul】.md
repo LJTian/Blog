@@ -4,7 +4,7 @@
 
 官方教程
 
-[Consul with Containers | Consul - HashiCorp Learn](https://learn.hashicorp.com/tutorials/consul/docker-container-agents?in=consul/docke)
+[[https://learn.hashicorp.com/tutorials/consul/docker-container-agents?in=consul/docker](https://learn.hashicorp.com/tutorials/consul/docker-container-agents?in=consul/docker)]
 
 docker 命令
 

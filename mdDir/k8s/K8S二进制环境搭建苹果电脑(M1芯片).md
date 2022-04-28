@@ -1,13 +1,3 @@
----
-title: K8S二进制环境搭建苹果电脑(M1芯片)
-catalog: true
-date: 2022-04-27 21:43:34
-subtitle:
-header-img:
-tags:
-categories:
----
-
 # 环境介绍
 
 ## 硬件设备
