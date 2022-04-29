@@ -1,7 +1,8 @@
 #bin/bash
 
+execPath=`pwd`
 date=`date '+%Y-%m-%d %H:%M:%S'`
-name=`echo "${1}" | awk -F '.' '{print $3}'| awk -F '/' '{ print $4}'`
+name=`echo "${1}" | awk -F '.' '{print $1}'`
 newName=${name}_blog.md
 
 echo "---
@@ -16,6 +17,4 @@ categories:
 - $3
 ---
 " > ${newName}
-
-cat $1 >> ${newName}
 
