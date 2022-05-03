@@ -10,7 +10,7 @@ title: $name
 catalog: true
 date: $date
 subtitle:
-header-img: /img/header_img/$name.jpg
+header-img: /img/header_img/tian.jpg
 tags:
 - $2
 categories:
