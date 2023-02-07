@@ -367,7 +367,7 @@ theme: livemylife
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
 gitter:
-  room: https://gitter.im/LJTian/blog
+  room: LJTian/blog
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
