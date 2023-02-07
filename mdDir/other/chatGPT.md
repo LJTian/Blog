@@ -43,6 +43,6 @@
 
 ## 接收验证码，注册完成
 
-1. 手机号填写至，收到验证码，提交，注册完成。
+1. 手机号填写至下方图片，收到验证码，提交，注册完成。
 
    ![Untitled](https://tianlj.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc8ddca03-b5f5-45d0-b472-099f42aaf80c%2FUntitled.png?id=3542732a-e9ac-4140-8ab1-5ff52b92cc1b&table=block&spaceId=ec500d2c-c8f8-4fff-b940-f5b099d03b65&width=2000&userId=&cache=v2)
